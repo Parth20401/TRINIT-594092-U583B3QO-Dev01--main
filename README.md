@@ -11,3 +11,6 @@ This app constitutes List of different NGO fetched using Firebase Realtime Datab
 * Retrofit - A Type-safe HTTP client for Android which simplifies consuming RESTFul APIs.
 * GsonConverter - Converts JSON to Kotlin objects.
 * Firebase - It is used authentication with gamil.
+
+## Author
+LinkedIn : https://www.linkedin.com/in/parth-dayal/
