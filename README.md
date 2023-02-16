@@ -5,6 +5,10 @@ This app constitutes List of different NGO fetched using Firebase Realtime Datab
 * Funtionality of registering new NGO
 * You can filter the list of NGO on basis of some keyword and pay the fund
 
+## Demo
+![WhatsApp Image 2023-02-17 at 12 34 44 AM](https://user-images.githubusercontent.com/97301303/219462981-4ff8ff3b-3ace-45e8-8c0d-bfd20910768e.jpeg)
+
+
 
 ## Libraries
 * View Binding - Jetpack library allowing type safe binding of views.
